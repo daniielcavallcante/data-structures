@@ -7,7 +7,7 @@ A principal diferença entre um set e um map é o segundo armazena os conjuntos 
 
 Em um map cada elemento está diretamente ligado a um valor, ou seja, cada elemento armazenado no map possui um valor correspondente. Se tivermos um map de strings em inteiros e inserimos os pair (“Joao”, 1), (“Alana”, 10), (“Rodrigo”, 9) nosso map armazenará:
 “Alana” => 10
-“Joao” => 1
+“Joao” => 1 
 “Rodrigo” => 9
 Caso façamos uma busca pela chave “Alana” receberemos o número 10 como retorno.
 */
